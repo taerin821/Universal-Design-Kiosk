@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69701673745",
+    "firebase_url": "https://realfood-jqhc-default-rtdb.firebaseio.com",
+    "project_id": "realfood-jqhc",
+    "storage_bucket": "realfood-jqhc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69701673745:android:7a25a25b84e913c8cc22b0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kiosk_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69701673745-04da7vg17rf5raq1lp32kbvu0au4mm8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApO9edcosLxPgrYpbVBbDCDQgX6Imf_GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69701673745-04da7vg17rf5raq1lp32kbvu0au4mm8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
