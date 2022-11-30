@@ -38,7 +38,7 @@
 ## 🛠️ 사용 기술 및 라이브러리
 - Flutter, Dart
 - OCR
-- 얼굴인식 인공지능 
+- Face Detection ai 
 - Firebase Real Time Database, Google assistant
 - LinearMotor Contol
 - circuit making
